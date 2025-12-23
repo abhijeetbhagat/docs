@@ -33,7 +33,8 @@
             "pages": [
               "get-started/build-app",
               "get-started/launch-token",
-              "get-started/deploy-smart-contracts"
+              "get-started/deploy-smart-contracts",
+              "get-started/deploy-smart-contracts-set-basenames"
             ]
           },
           {
